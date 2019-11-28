@@ -12,7 +12,7 @@
 - Strong knowledge of data types (strings, integers, floating points, booleans) etc
 
 #### Description
-Data Analysis with Pandas and Python offers 19+ hours of in-depth video tutorials on the most powerful data analysis toolkit available today. Lessons include:
+Data Analysis with Pandas and Python offers 19+ hours of in-depth video tutorials on the most powerful data analysis toolkit. Lessons include:
 
 - installing
 - sorting
